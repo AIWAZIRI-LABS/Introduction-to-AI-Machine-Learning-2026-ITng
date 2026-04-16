@@ -1,0 +1,100 @@
+status,time,card_type,city,amount,id
+success,23:17 2025-09-08,Discover,ThRan,-5000,1
+failed,,MastCard,karaj,63489,2
+success,07:32 2025-09-20,Visa,Isfahan,1502601,3
+failed,03-00-2025 09-11,Discover,Qom,9999999999,4
+success,22:27 2025-09-11,Amex,Mashhad,452545,5
+Success,02:24 2025-09-04,Master Card,tehr@n,9999999999,6
+fail,17:07 2025-09-30,Discover,Shiraz,1158713,7
+fail,18:12 2025-09-23,Visa,Tehran,1387769,8
+fail,02:54 2025-09-08,Visa,Qom,583952,9
+fail,05:23 2025-09-12,MasterCard,Tabriz,1472823,10
+failed,19:40 2025-09-06,VISA,Tehran ,343679,11
+fail,08:59 2025-09-21,MasterCard,Karaj,1768588,12
+success,01:51 2025-09-11,visa,Mashhad,443463,13
+failed,25:61 2025-09-11,,Qom,100.50,14
+fail,04:15 2025-09-24,Amex,Qom,1883871,15
+FAIL,25:61 2025-09-11,Amex,Ahvaz,-5000,16
+success,04:40 2025-09-06,Master-Card,THR,-5000,17
+fail,19:29 2025-09-17,Amex,Tehran,1427657,18
+success,99:99 2025-13-40,Master-Card,Mashhad,one hundred,19
+fail,13:10 2025-09-15,Visa,Tabriz,1050805,20
+fail,,,Mashhad,-999999,21
+fail,,Vsa,Tehran,0,22
+success,12:44 2025-09-28,Visa,Isfahan,412308,23
+success,05:56 2025-09-02,MasterCard,Tabriz,545116,24
+fail,14:02 2025-09-05,Vsa,Tehran,0,25
+success,20:33 2025-09-01,Amex,Isfahan,774681,26
+fail,00:00 2025-09-10,Visa,Tehran,1,27
+success,11:11 2025-09-09,Discover,Ahvaz,99999,28
+failed,12:00,MasterCard,Tehran,100.50,29
+fail,03:00 2025-09-11,Vsa,Tehran,0,30
+success,09:45 2025-09-13,Visa,Shiraz,205000,31
+success,21:21 2025-09-07,visa,Isfahan,5000,32
+succeed,3pm 2025/09/11,Discover,tehr@n,585954,33
+failed,99:99 2025-13-40,MastCard,Tabriz,177050,34
+success,14:55 2025-09-20,Amex,Isfahan,250000,35
+fail,06:30 2025-09-18,MasterCard,Karaj,-1,36
+success,02:37 2025-09-23,MasterCard,Shiraz,1463119,37
+fail,08:08 2025-09-08,Amex,,0,38
+Success,07:07 2025-09-04,Master Card,TEHRAN,100000,39
+failed,12:12 2025-09-02,VISA,Tehran ,343679,40
+fail,18:45 2025-09-19,Visa,Tabriz,200000,41
+success,23:59 2025-09-30,Discover,Mashhad,850000,42
+fail,99:99 2025-13-40,Vsa,karaj,-999999,43
+success,10:05 2025-09-11,Visa,Karaj,471227,44
+fail,07:99 2025-09-11,MasterCard,Isfahan,12345,45
+success,16:16 2025-09-16,Visa,Shiraz,976246,46
+fail,25:61 2025-09-11,MastCard,Tabriz,-5000,47
+failed,14:00 2025-09-06,Visa,Tabriz,1578078,48
+success,,MasterCard,Tehran,419089,49
+fail,21:23 2025-09-03,Amex,Tehran,1782689,50
+success,02:20 2025-09-14,Discover,Ahvaz,300000,51
+fail,00:61 2025-09-11,Vsa,Tehran,0,52
+success,19:19 2025-09-19,MasterCard,Mashhad,650000,53
+fail,12:34 2025-09-12,Visa,Isfahan,-5000,54
+success,13:13 2025-09-13,Visa,Tehran,200000,55
+failed,03-00-2025 09-11,Master-Card,TEHRAN,1305967,56
+success,04:04 2025-09-04,Amex,Tabriz,50200,57
+fail,11:11 2025-09-11,Visa,Tehran,0,58
+success,15:45 2025-09-15,Discover,Shiraz,900000,59
+failed,25:61 2025-09-11,,Qom,100.50,60
+fail,09:09 2025-09-09,Visa,Qom,583952,61
+success,06:06 2025-09-06,MasterCard,Karaj,1768588,62
+fail,20:20 2025-09-20,MastCard,THR,177050,63
+success,01:01 2025-09-01,Amex,Ahvaz,450000,64
+fail,14:11 2025-09-02,Vsa,karaj,-999999,65
+success,17:17 2025-09-17,Visa,Tehran,1387769,66
+failed,,MastCard,Tehran,,67
+success,08:08 2025-09-08,MasterCard,Isfahan,120000,68
+fail,03:27 2025-09-12,Discover,Mashhad,914282,69
+Success,25:61 2025-09-11,MastCard,Tabriz,-5000,70
+fail,10:48 2025-09-29,Discover,Tabriz,1578078,71
+success,12:12 2025-09-12,Visa,Karaj,250000,72
+fail,02:30 2025-09-01,Visa,Karaj,471227,73
+success,21:10 2025-09-10,Amex,Isfahan,333333,74
+fail,18:00 2025-09-18,MasterCard,Tehran,9999999999,75
+success,09:00 2025-09-09,Visa,Tehran,200000,76
+fail,19:51 2025-09-30,Discover,Ahvaz,914465,77
+success,00:00 2025-09-01,MasterCard,Tabriz,1000,78
+failed,99:99 2025-13-40,MastCard,THR,177050,79
+success,11:11 2025-09-11,Discover,Qom,850000,80
+fail,13:13 2025-09-13,Vsa,Tehran,0,81
+success,16:40 2025-09-20,Visa,Mashhad,123456,82
+fail,07:08 2025-09-16,Visa,Isfahan,976246,83
+success,14:30 2025-09-14,MasterCard,Shiraz,555555,84
+fail,23:59 2025-09-30,Master-Card,TEHRAN,0,85
+success,99:99 2025-13-40,MastCard,THR,177050,87
+FAIL,14:11 2025-09-02,Vsa,karaj,-999999,88
+fail,10:48 2025-09-29,Discover,Tabriz,1578078,89
+fail,02:30 2025-09-01,Visa,Karaj,471227,90
+success,,Master-Card,Tehran,419089,91
+success,07:08 2025-09-16,Visa,Isfahan,976246,92
+Success,25:61 2025-09-11,MastCard,Tabriz,-5000,93
+fail,,MastCard,Tehran,,94
+success,02:37 2025-09-23,MasterCard,Shiraz,1463119,95
+Success,99:99 2025-13-40,Master-Card,TEHRAN,0,96
+fail,21:23 2025-09-03,Amex,Tehran,1782689,97
+fail,03:27 2025-09-12,Discover,Mashhad,914282,98
+fail,19:51 2025-09-30,Discover,Ahvaz,914465,99
+succeed,3pm 2025/09/11,Discover,tehr@n,585954,100
